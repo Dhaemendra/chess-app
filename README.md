@@ -1,3 +1,4 @@
+The website is hosted on Vercel and can be accessed https://chess-game-mern.vercel.app/.
 
 ### Chess Game Server
 This is the server-side code for the Chess Game web application. It is built using Node.js and Express.js and MongoDB.
